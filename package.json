@@ -1,0 +1,18 @@
+{
+  "name": "umn",
+  "version": "1.0.0",
+  "description": "An API to interface with the University of Minnesota's website.",
+  "author": "Jordan Ashworth <jrdn.ash@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrdnash/umn-node"
+  },
+  "bugs": {
+    "url": "https://github.com/jrdnash/umn-node/issues"
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.69.0"
+  }
+}
